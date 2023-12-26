@@ -9,13 +9,10 @@ import {getAuth} from "firebase/auth";
 
 
 // Your web app's Firebase configuration
+
 const firebaseConfig = {
-  apiKey: "AIzaSyD_5NPTB_fk3-0RlajB5uQ_zP2U41RDzvQ",
-  authDomain: "projetotdm2023.firebaseapp.com",
-  projectId: "projetotdm2023",
-  storageBucket: "projetotdm2023.appspot.com",
-  messagingSenderId: "198914693022",
-  appId: "1:198914693022:web:9133045ba767b1d60ba88f"
+//aqui supostamente eram pra ficar meus dados porém nn sei se dá problema outra pessoa acessar, então tirei
+
 };
 
 // Initialize Firebase
